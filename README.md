@@ -64,7 +64,9 @@ Declared In:      PCCommandStation.h
 ##Instance Methods##
 
 **initWithCallbackBlock:**
+
 **initWithCallbackBlock:maximumIdleDuration:**
+
 **initWithCallbackBlock:maximumIdleDuration:intervalBetweenIdleChecks**
 
 >Initializes a `PCCommandStation` object.
@@ -90,7 +92,9 @@ Declared In:      PCCommandStation.h
 >An initialized `PCCommandStation` object or `nil`.
 
 **initWithDelegate:**
+
 **initWithDelegate:maximumIdleDuration:**
+
 **initWithDelegate:maximumIdleDuration:intervalBetweenIdleChecks**
 
 >Initializes a `PCCommandStation` object.
